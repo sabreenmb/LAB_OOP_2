@@ -1,0 +1,17 @@
+{
+    "sabreen.mbs": {
+        "pin": "12345",
+        "account_holder": "sabreen",
+        "balance": 0
+    },
+    "sabreen.mb": {
+        "pin": "12345",
+        "account_holder": "sabreen",
+        "balance": 0
+    },
+    "sabreen": {
+        "pin": "12345",
+        "account_holder": "sabreen",
+        "balance": 10180
+    }
+}
